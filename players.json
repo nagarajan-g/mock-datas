@@ -1,0 +1,57 @@
+{
+    "players": [
+      {
+        "name": "John Smith",
+        "email": "john.smith@email.com",
+        "contact": "+1234567890",
+        "country": "United States",
+        "location": "New York, NY",
+        "dateRegistered": "2024-01-15",
+        "registerChannel": "mobile-app",
+        "phoneVerified": true,
+        "emailVerified": true,
+        "kycStatus": "verified",
+        "dob": "1995-06-15"
+      },
+      {
+        "name": "John Smith",
+        "email": "john.smith@email.com",
+        "contact": "+1234567891",
+        "country": "United States",
+        "location": "New York, NY",
+        "dateRegistered": "2024-01-15",
+        "registerChannel": "mobile-app",
+        "phoneVerified": true,
+        "emailVerified": true,
+        "kycStatus": "verified",
+        "dob": "1995-06-15"
+      },
+      {
+        "name": "John Smith",
+        "email": "john.smith@email.com",
+        "contact": "+1234567892",
+        "country": "United States",
+        "location": "New York, NY",
+        "dateRegistered": "2024-01-15",
+        "registerChannel": "mobile-app",
+        "phoneVerified": true,
+        "emailVerified": true,
+        "kycStatus": "verified",
+        "dob": "1995-06-15"
+      },
+      {
+        "name": "John Smith",
+        "email": "john.smith@email.com",
+        "contact": "+1234567893",
+        "country": "United States",
+        "location": "New York, NY",
+        "dateRegistered": "2024-01-15",
+        "registerChannel": "mobile-app",
+        "phoneVerified": true,
+        "emailVerified": true,
+        "kycStatus": "verified",
+        "dob": "1995-06-15"
+      }
+    ]
+  }
+  
