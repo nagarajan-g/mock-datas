@@ -1,0 +1,169 @@
+{
+    "lookupDetails": [
+        {
+            "name": "OffGrid Gamers",
+            "contactPerson":"",
+            "logo": "",
+            "address": "No 15, 1st Floor, Udhi Eye Hospital LLP, Velachery Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+            "contactNum": "+919043119654",
+            "mapDetails":{
+                "mapLocation":"No 15, 1st Floor, Udhi Eye Hospital LLP, Velachery Rd, Indira Gandhi Nagar, Velachery, Chennai, Tamil Nadu 600042, India",
+                "lat":"12.994222198998054",
+                "long":"80.21777305766997"
+            },
+            "zoneDetails":{
+                "PS5-Zone": {
+                    "name":"PS5 Zone",
+                    "totalItems": 5,
+                    "itemsDetail":[
+                        {
+                            "name":"PS5-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PS5-2",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PS5-3",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                },
+                "PC-Zone": {
+                    "name":"PC Zone",
+                    "totalItems": 15,
+                    "itemsDetail":[
+                        {
+                            "name":"PC-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PC-2",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PC-3",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                },
+                "PS-Lounge-Zone": {
+                    "name":"PS5 Private Lounge",
+                    "totalItems": 2,
+                    "itemsDetail":[
+                        {
+                            "name":"Lounge-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"Lounge-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "name": "PAC MAN PC HUB",
+            "contactPerson":"",
+            "logo": "",
+            "address": "12, Valluvar Salai, Azhakapuri Nagar, Ramapuram, Chennai, Tamil Nadu 600089, India",
+            "contactNum": "+919043119654",
+            "mapDetails":{
+                "mapLocation":"12, Valluvar Salai, Azhakapuri Nagar, Ramapuram, Chennai, Tamil Nadu 600089, India",
+                "lat":"13.029159101817848",
+                "long":"80.1833843641962"
+            },
+            "zoneDetails":{
+                "PS5-Zone": {
+                    "name":"PS5 Zone",
+                    "totalItems": 5,
+                    "itemsDetail":[
+                        {
+                            "name":"PS5-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PS5-2",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PS5-3",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                },
+                "PC-Zone": {
+                    "name":"PC Zone",
+                    "totalItems": 15,
+                    "itemsDetail":[
+                        {
+                            "name":"PC-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PC-2",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"PC-3",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                },
+                "PS-Lounge-Zone": {
+                    "name":"PS5 Private Lounge",
+                    "totalItems": 2,
+                    "itemsDetail":[
+                        {
+                            "name":"Lounge-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        },
+                        {
+                            "name":"Lounge-1",
+                            "status":"AVAILABLE/NOT_AVAILABLE/OUT_OF_ORDER"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "dashboardSlider":[
+        {
+            "title":"",
+            "imageUrl":"",
+            "href":""
+        },
+        {
+            "title":"",
+            "imageUrl":"",
+            "href":""
+        },
+        {
+            "title":"",
+            "imageUrl":"",
+            "href":""
+        }
+    ],
+    "dashboardArticles":[
+        {
+            "title":"",
+            "description":"",
+            "imageUrl":"",
+            "href":""
+        },
+        {
+            "title":"",
+            "description":"",
+            "imageUrl":"",
+            "href":""
+        },
+        {
+            "title":"",
+            "description":"",
+            "imageUrl":"",
+            "href":""
+        }
+    ],
+}
